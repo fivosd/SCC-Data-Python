@@ -1,0 +1,6 @@
+mark 3.4
+layla 3.5
+jake 2.8
+matt 3.6
+fivos 3.1
+sarah 3.8
